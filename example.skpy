@@ -1,0 +1,18 @@
+database, sec
+  port, int
+    5432
+  hostname, str
+    testhost.example.domain
+  auth, hsh
+    username, str
+      hellothere
+    password, str
+      generalkenobi
+  method, arr
+    http https
+misc, sec
+  test, int
+    1234
+misc2, sec
+  test, str
+    asdf

@@ -1,0 +1,5 @@
+[sec] Section header
+[str] String
+[int] Integer
+[arr] Array
+[hsh] Hash
