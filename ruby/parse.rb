@@ -25,6 +25,3 @@ sections.count().times do |i|
     line_num += 1
   end
 end
-
-
-#^[ \t].*(sec)
