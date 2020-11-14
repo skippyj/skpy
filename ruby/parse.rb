@@ -1,5 +1,4 @@
 # Grab input file for parsing
-primary_dict = Hash.new()
 sections = []
 
 # Identify section headers
